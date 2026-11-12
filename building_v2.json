@@ -1,0 +1,193 @@
+{
+  "Reclaiming oru home": {
+    "parent": "none",
+    "resource": "Reclaiming oru home.glb",
+    "template": "T_nopannels_warm_B.glb",
+    "0.1": {
+      "resource": "/Reclaiming oru home/0.1.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,20.258,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Beyond the void\nUrban voids are spaces in African cities where everyday life unfolds in all its complexities. Here, economies, ingenuity, resilience, violence and crime converge. It is through these encounters, social connections and relations where that a city finds its spirit. Photo: Professor Shuaib Lwasa"
+    },
+    "0.10": {
+      "resource": "/Reclaiming oru home/0.10.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,8.325,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Growing upwards\nFrom single-storey tenements to high-rise buildings, the changing landscapes of Mathare, Dandora, Kibera and Dagoretti reveal a new dimension of Nairobi's urban transformation. Photo: Professor Shuaib Lwasa"
+    },
+    "0.11": {
+      "resource": "/Reclaiming oru home/0.11.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,-3.675,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Art as a voice for change\nArt becomes a tool for environmental awareness, encouraging communities to rethink their relationship with their surroundings. Through creative expression, messages of environmental care inspire collective responsibility and changes in everyday practices. Photo: Nuvoni"
+    },
+    "0.12": {
+      "resource": "/Reclaiming oru home/0.12.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "135.00",
+      "location": "[8.950,-15.642,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Caring for the source\nAt Ondiri Swamp, one of the headwater sources of the Nairobi River, an eco-toilet installed by the National Environment Management Authority (NEMA) helps manage waste from visitors and prevent water pollution. A small but meaningful intervention, showing how thoughtful infrastructure can contribute to the conservation of vital urban ecosystems. Photo: Professor Shuaib Lwasa"
+    },
+    "0.13": {
+      "resource": "/Reclaiming oru home/0.13.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "135.00",
+      "location": "[-8.950,13.500,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "A lion’s view\nAt Unity Park in Addis Ababa, two young lions rest against the backdrop of the urban landscape. The scene captures the coexistence of wildlife and the built environment, inviting reflection on the place of nature within growing African cities. Photo: Professor Shuaib Lwasa"
+    },
+    "0.14": {
+      "resource": "/Reclaiming oru home/0.14.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "135.00",
+      "location": "[-8.950,4.500,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "City on the water\nA floating urban landscape shaped by diverse forms of housing and building materials. These contrasts reveal the different ways people adapt to their surroundings, reflecting the complexity and diversity of urban life in African cities. Photo: Professor Shuaib Lwasa"
+    },
+    "0.17": {
+      "resource": "/Reclaiming oru home/0.17.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[-8.950,-4.500,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "Floating livelihoods\nWomen in Makoko transform urban waterways into places of commerce and livelihood, claiming their place in the city through everyday trade. Photo: Professor Shuaib Lwasa"
+    },
+    "0.18": {
+      "resource": "/Reclaiming oru home/0.18.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[-8.950,-13.500,2.000]",
+      "vector": "[1.0,0.0]",
+      "metadata": "Cooking up a cleaner future\nThrough the Pika na Power initiative, a live electric cooking demonstration explores how everyday household practices can shift towards cleaner energy, offering practical alternatives for more sustainable living. Photo: Nuvoni"
+    },
+    "0.2": {
+      "resource": "/Reclaiming oru home/0.2.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[-5.500,23.950,2.000]",
+      "vector": "[0.0,-1.0]",
+      "metadata": "Urban rhythms\nIn the informal neighbourhood of Oworonshoki, Lagos, navigating the city calls for infrastructure that responds to the realities of everyday urban life. Photo: Professor Shuaib Lwasa"
+    },
+    "0.20": {
+      "resource": "/Reclaiming oru home/0.20.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[-5.500,-23.950,2.000]",
+      "vector": "[0.0,1.0]",
+      "metadata": "Growing within the city\nIn Nairobi, Easy Urban Green Growers CBO is transforming limited urban spaces into productive green landscapes. Through community-led farming, these spaces become sources of food, livelihood and opportunity. Photo: Nuvoni"
+    },
+    "0.22": {
+      "resource": "/Reclaiming oru home/0.22.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,3.675,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Lucky summer\nThe Dandora waste dump meets the Nairobi River, while new developments rise in nearby Lucky Summer, a neighbourhood in Nairobi's Kasarani area. Photo: Professor Shuaib Lwasa"
+    },
+    "0.3": {
+      "resource": "/Reclaiming oru home/0.3.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,-8.325,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "No wide streets? No problem.\nIn Oworonshoki, an informal neighbourhood in Lagos, adapted, frugal and fitting technologies find was to serve the community, even where conventional infrastructure cannot reach. Photo: Professor Shuaib Lwasa"
+    },
+    "0.4": {
+      "resource": "/Reclaiming oru home/0.4.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,15.642,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Merkato vibrancy\nLocated in the Addis Ketema district of Addis Ababa, Merkato is a bustling open-air market and a vibrant centre of everyday life. Photo: Professor Shuaib Lwasa"
+    },
+    "0.5": {
+      "resource": "/Reclaiming oru home/0.5.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,-20.258,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "0.5"
+    },
+    "Reclaiming oru home#R1": {
+      "resource": "Reclaiming oru home#R1.glb",
+      "resource_type": "door"
+    }
+  },
+  "Technical": {
+    "ambientLight": 0.5,
+    "pointLight": 50,
+    "style": "warm",
+    "show_plaques": true,
+    "show_frames": true,
+    "frame_color": "#f9f9f9",
+    "skip_hub": true,
+    "title": "Reclaiming our home: Urban transitions in Africa",
+    "description": "A compact exhibition series curated by the International Institute of Social Studies, the International Centre for Frugal Innovation and LDE Global."
+  },
+  "Reclaiming oru home#R1": {
+    "parent": "Reclaiming oru home",
+    "resource": "Reclaiming oru home#R1.glb",
+    "template": "T_nopannels_warm_B.glb",
+    "0.6": {
+      "resource": "/Reclaiming oru home/0.6.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "135.00",
+      "location": "[8.950,17.950,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "From banking halls to city streets\nIn Lagos and across Nigeria, banking is finding its place on the streets, moving beyond the comfort and luxury of traditional banking halls. This transformation reflects the changing ways people access financial services and navigate the urban economy. Photo: Professor Shuaib Lwasa"
+    },
+    "0.7": {
+      "resource": "/Reclaiming oru home/0.7.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,6.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "The green from above\nFrom above, Nairobi reveals a landscape where urban development and nature coexist. As the city's central business district expands eastwards, a question emerges: will the pressures of development leave room for green spaces? Photo: Professor Shuaib Lwasa"
+    },
+    "0.8": {
+      "resource": "/Reclaiming oru home/0.8.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "135.00",
+      "location": "[8.950,-6.000,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Layers of Lagos\nFrom above, Lagos reveals a complex urban landscape where streets, infrastructure, and urban voids intersect. Together, these spaces shape the city's physical fabric and the rhythms of everyday urban life. Photo: Professor Shuaib Lwasa"
+    },
+    "0.9": {
+      "resource": "/Reclaiming oru home/0.9.png",
+      "resource_type": "image",
+      "width": "180.00",
+      "height": "134.93",
+      "location": "[8.950,-17.950,2.000]",
+      "vector": "[-1.0,0.0]",
+      "metadata": "Boundaries of access\nGated communities are becoming increasingly common in cities like Lagos. Rules of entry and restrictions on certain public transport providers, clearly displayed on signboards, reveal how access to urban spaces is increasingly controlled. Photo: Professor Shuaib Lwasa"
+    },
+    "Reclaiming oru home": {
+      "resource": "Reclaiming oru home.glb",
+      "resource_type": "door"
+    }
+  }
+}
