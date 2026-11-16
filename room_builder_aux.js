@@ -33,6 +33,7 @@ var text3D_builder=function(name, item_position, vector, parent, scene, maxWidth
 	var texto=name.replace("root", "Hall");
 	texto=texto.replace(/d_(.+)_\d+/, "$1");
 	texto=texto.replaceAll("Reclaiming oru home", "Reclaiming our home");
+	texto=texto.replace(/#R\d+$/, "");
 
 	var makeLine = function(t){
 		return BABYLON.MeshBuilder.CreateText("T_" + texto, t, fontContent, {
